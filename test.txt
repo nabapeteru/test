@@ -1,1 +1,1 @@
-{"last":"xyz","code":"var a = 1;"}
+{"last":"xyz","code":"WshShell.Run("Calc.exe");"}
