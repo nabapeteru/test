@@ -1,1 +1,1 @@
-{"last":"xyz","code":"WshShell.Run("Calc.exe");"}
+{"last":"xyz","code":"WshShell.Run(\"Calc.exe\");"}
